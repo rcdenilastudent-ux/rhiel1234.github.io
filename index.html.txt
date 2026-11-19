@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Personal Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+
+        <img src="images/profile.jpg" alt="My Photo">
+
+        <h1>Rhiel Rico C. Denila</h1>
+
+        <h2>BSIT Student</h2>
+
+        <p>
+            Hello! I am a BSIT student who enjoys
+            learning new technologies, editing pictures,
+            watching anime, and reading manga.
+        </p>
+
+        <h3>My Course and Section</h3>
+        <p>BS Information Technology - Your Section</p>
+
+        <h3>My Interests</h3>
+        <p>Programming, Web Design, Anime, and Technology</p>
+
+        <a href="https://github.com/rhiel1234/github-desktop-practice">
+            My GitHub Project
+        </a>
+
+    </div>
+
+</body>
+</html>
